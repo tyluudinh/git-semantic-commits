@@ -1,6 +1,8 @@
 #!/bin/bash
 CWD=`pwd`
 
+
+
 # Register semantic commits scripts execution path
 #
 # $1 — shell configuraton file path
