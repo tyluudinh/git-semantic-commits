@@ -8,3 +8,4 @@ if [ -z "$1" ]
   else
     git commit -m "feat: ${@}"
 fi
+
